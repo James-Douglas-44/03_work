@@ -25,4 +25,4 @@ for (let i = 0; i < 100000000; i++) {
 
 let end = new Date();
 
-alert(`Loop competed for ${end - start} ms.`);
+alert(`Loop completed for ${end - start} ms.`);
